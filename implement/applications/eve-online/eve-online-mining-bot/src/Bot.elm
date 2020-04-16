@@ -51,9 +51,9 @@ import Set
 defaultBotSettings : BotSettings
 defaultBotSettings =
     { runAwayShieldHitpointsThresholdPercent = 50
-    , targetingRange = 8000
-    , miningModuleRange = 5000
-    , botStepDelayMilliseconds = 2000
+    , targetingRange = 17000
+    , miningModuleRange = 10000
+    , botStepDelayMilliseconds = 3000
     , lastDockedStationNameFromInfoPanel = Nothing
     , oreHoldMaxPercent = 99
     }
